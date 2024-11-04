@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity implements PostersListener {
         civilWar.createdBy = "Joe Russo";
         civilWar.rating =5f;
         civilWar.story = "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.";
-        posterList.add(ironMan);
+        posterList.add(civilWar);
 
         Poster polarExpress =new Poster();
         polarExpress.image = R.drawable.movie8;
